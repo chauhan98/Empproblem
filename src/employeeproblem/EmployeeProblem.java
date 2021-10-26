@@ -5,7 +5,7 @@ package employeeproblem;
 public class EmployeeProblem {
     public static void main(String[] args) {
 
-    EmpSwitchCase emp = new EmpSwitchCase();
+        MonthlyWage emp = new MonthlyWage();
             emp.calculateWage();
 
     }
